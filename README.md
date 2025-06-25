@@ -26,6 +26,4 @@ A simplified Node.js module for creating Metaplex NFTs (NonFungible or Programma
 ## Installation
 
 ```bash
-npm install simple-metaplex # Replace with your actual package name
-# or
-yarn add simple-metaplex
+npm install simple-metaplex
